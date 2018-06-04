@@ -18,8 +18,8 @@ email: kshivara@hawk.iit.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is a tutorial blog where i record everything that i learn during my PHD journey in Computer
   Science.
-# baseurl: "ga_blog" # the subpath of your site, e.g. /blog
-baseurl: ""
+baseurl: "ga_blog" # the subpath of your site, e.g. /blog
+# baseurl: ""
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  dataFarmer24
